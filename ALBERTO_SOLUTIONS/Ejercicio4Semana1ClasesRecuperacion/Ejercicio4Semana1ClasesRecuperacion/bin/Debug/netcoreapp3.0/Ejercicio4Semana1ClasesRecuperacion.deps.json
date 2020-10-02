@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Ejercicio4Semana1ClasesRecuperacion/1.0.0": {
+        "runtime": {
+          "Ejercicio4Semana1ClasesRecuperacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio4Semana1ClasesRecuperacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
